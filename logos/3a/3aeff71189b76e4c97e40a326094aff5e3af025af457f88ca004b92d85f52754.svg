@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-5855c45f-a3a7-42e8-b27e-9654a69944f4" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" width="500" height="435" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 435">
+  <defs>
+    <linearGradient id="uuid-be04085d-5c21-4b65-aabe-d4bf04a6f956" data-name="Безымянный градиент 80" x1="112.96" y1="-94.79" x2="430.46" y2="283.59" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#785db5"/>
+      <stop offset="1" stop-color="#4b1f57"/>
+    </linearGradient>
+    <linearGradient id="uuid-f410e6ee-9132-4205-8cb0-90afd2081a1b" data-name="Безымянный градиент 83" x1="174.3" y1="52.27" x2="318.95" y2="224.66" gradientUnits="userSpaceOnUse">
+      <stop offset=".2" stop-color="#fff"/>
+      <stop offset="1" stop-color="#bcbcbc"/>
+    </linearGradient>
+  </defs>
+  <polygon points="0 0 250.01 435 500 0 0 0" style="fill: url(#uuid-be04085d-5c21-4b65-aabe-d4bf04a6f956); isolation: isolate; stroke-width: 0px;"/>
+  <path d="M268.74,259.83c-10.51,3.82-21.38,5.68-32.25,5.68-25.56,0-52.46-9.2-75.82-32.55l27.76-47.63c5.22,12.99,16.65,24.79,30.8,28.65,23.09,6.31,42.54-2.06,47.38-19.93,4.84-17.86-6.77-37.45-29.86-43.74-4.83-1.33-9.64-1.89-14.27-1.9l-12.62-.07,33.43-57.37h-55.42v-50.09h142.12l-45.15,78.24c19.69,11.64,38.37,31.92,38.37,63.69,0,35.29-20.87,64.8-54.46,77.02" style="fill: url(#uuid-f410e6ee-9132-4205-8cb0-90afd2081a1b); stroke-width: 0px;"/>
+</svg>
